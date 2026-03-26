@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|d:\\.net\\blog\\src\\blog.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|d:\\.net\\blog\\src\\blog.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|solutionrelative:src\\blog.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Blog.Data\\Class1.cs",
+              "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Data\\Class1.cs",
+              "RelativeToolTip": "src\\Blog.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:41:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Blog.Core\\Class1.cs",
+              "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Core\\Class1.cs",
+              "RelativeToolTip": "src\\Blog.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:40:40.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
