@@ -1,6 +1,8 @@
 using Blog.Api;
 using Blog.Core.Identity;
+using Blog.Core.Seedwork;
 using Blog.Data;
+using Blog.Data.Seedwork;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
 var connectionString = configuration.GetConnectionString("DefaultConnection");
 
-// Add services to the container.
+
 
 
 //Config DB Context  and ASP.NET Core Identity
@@ -37,7 +39,9 @@ builder.Services.Configure<IdentityOptions>(options =>
 
 );
 
-
+// Add services to the container.
+builder.Services.AddScoped(typeof(IRepository<,>), typeof(RepositoryBase<,>));
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 
 builder.Services.AddControllers();
