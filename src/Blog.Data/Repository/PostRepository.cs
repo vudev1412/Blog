@@ -1,4 +1,7 @@
-﻿using Blog.Core.Domain;
+﻿using AutoMapper;
+using Blog.Core.Domain;
+using Blog.Core.Model;
+using Blog.Core.Model.Content;
 using Blog.Core.Repository;
 using Blog.Data.Seedwork;
 using Microsoft.EntityFrameworkCore;
@@ -12,15 +15,42 @@ namespace Blog.Data.Repository
 {
     public class PostRepository : RepositoryBase<Post, Guid>, IPostRepository
     {
-        
-        public PostRepository(BlogContext context) : base(context)
+        private readonly IMapper _mapper;
+        public PostRepository(BlogContext context, IMapper mapper) : base(context)
         {
-            
+            _mapper = mapper;
         }
 
         public Task<List<Post>> GetPopularPostsAsync(int count)
         {
             return _context.Posts.OrderByDescending(x => x.ViewCount).Take(count).ToListAsync();
+        }
+
+        public async Task<PagedResult<PostInListDTO>> GetPostsPagingAsync(string keyword, Guid? categoryId, int pageIndex = 1, int pageSize = 10)
+        {
+            var query = _context.Posts.AsQueryable();
+            if(!string.IsNullOrEmpty(keyword))
+            {
+                query = query.Where(x => x.Name.Contains(keyword));
+            }
+            if (categoryId.HasValue)
+            {
+                query = query.Where(x => x.CategoryId == categoryId.Value);
+            }
+
+            var totalRow = await query.CountAsync();
+
+            query = query.OrderByDescending(x => x.DateCreated)
+                .Skip((pageIndex - 1) * pageSize)
+                .Take(pageSize);
+            return new PagedResult<PostInListDTO>
+            {
+                Result = await _mapper.ProjectTo<PostInListDTO>(query).ToListAsync(),
+                CurrentPage = pageIndex,
+                RowCount = totalRow,
+                PageSize = pageSize
+            };
+
         }
     }
 }

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\.NET\\Blog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|d:\\.net\\blog\\src\\blog.data\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\repository\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|d:\\.net\\blog\\src\\blog.core\\repository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|solutionrelative:src\\blog.core\\repository\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC98C02-0DE8-4ABF-B59A-6070239A66BD}|src\\Blog.Api\\Blog.Api.csproj|d:\\.net\\blog\\src\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC98C02-0DE8-4ABF-B59A-6070239A66BD}|src\\Blog.Api\\Blog.Api.csproj|solutionrelative:src\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|d:\\.net\\blog\\src\\blog.data\\seedwork\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\seedwork\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|d:\\.net\\blog\\src\\blog.data\\seedwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\seedwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|d:\\.net\\blog\\src\\blog.data\\seedwork\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5894C2D-D8BF-43AB-9A03-CB92A34DA1D5}|src\\Blog.Data\\Blog.Data.csproj|solutionrelative:src\\blog.data\\seedwork\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|d:\\.net\\blog\\src\\blog.core\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|solutionrelative:src\\blog.core\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|d:\\.net\\blog\\src\\blog.core\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21D1FCCE-9C6A-433D-9E20-D2E415D38EB3}|src\\Blog.Core\\Blog.Core.csproj|solutionrelative:src\\blog.core\\seedwork\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EC98C02-0DE8-4ABF-B59A-6070239A66BD}|src\\Blog.Api\\Blog.Api.csproj|d:\\.net\\blog\\src\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EC98C02-0DE8-4ABF-B59A-6070239A66BD}|src\\Blog.Api\\Blog.Api.csproj|solutionrelative:src\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4E68A7A-5798-4009-9BBF-3D0DC9A51DC1}|src\\Blog.WebApp\\Blog.WebApp.csproj|d:\\.net\\blog\\src\\blog.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,11 +126,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Repository\\PostRepository.cs",
+              "RelativeDocumentMoniker": "src\\Blog.Data\\Repository\\PostRepository.cs",
+              "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Data\\Repository\\PostRepository.cs",
+              "RelativeToolTip": "src\\Blog.Data\\Repository\\PostRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:03:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Repository\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "src\\Blog.Core\\Repository\\IPostRepository.cs",
+              "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Core\\Repository\\IPostRepository.cs",
+              "RelativeToolTip": "src\\Blog.Core\\Repository\\IPostRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T10:59:56.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.WebApp\\Program.cs",
               "RelativeDocumentMoniker": "src\\Blog.WebApp\\Program.cs",
@@ -130,12 +164,11 @@
               "RelativeToolTip": "src\\Blog.WebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T10:49:35.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T10:49:35.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Seedwork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\Seedwork\\UnitOfWork.cs",
@@ -148,20 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RepositoryBase.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Seedwork\\RepositoryBase.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\Seedwork\\RepositoryBase.cs",
               "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Data\\Seedwork\\RepositoryBase.cs",
               "RelativeToolTip": "src\\Blog.Data\\Seedwork\\RepositoryBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T10:35:01.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Seedwork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Seedwork\\IUnitOfWork.cs",
@@ -169,12 +202,11 @@
               "RelativeToolTip": "src\\Blog.Core\\Seedwork\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T10:31:52.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T10:31:52.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Seedwork\\IRepository.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Seedwork\\IRepository.cs",
@@ -182,12 +214,11 @@
               "RelativeToolTip": "src\\Blog.Core\\Seedwork\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T10:31:44.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T10:31:44.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "MigrationManager.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Api\\MigrationManager.cs",
               "RelativeDocumentMoniker": "src\\Blog.Api\\MigrationManager.cs",
@@ -199,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DataSeeder.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\DataSeeder.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\DataSeeder.cs",
@@ -207,12 +238,11 @@
               "RelativeToolTip": "src\\Blog.Data\\DataSeeder.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T08:16:12.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T08:16:12.106Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20260404074304_Initial.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Migrations\\20260404074304_Initial.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\Migrations\\20260404074304_Initial.cs",
@@ -224,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "BlogContextFactory.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\BlogContextFactory.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\BlogContextFactory.cs",
@@ -236,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Blog.Data\\appsettings.json",
@@ -248,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Blog.Data.csproj",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\Blog.Data.csproj",
               "RelativeDocumentMoniker": "src\\Blog.Data\\Blog.Data.csproj",
@@ -260,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.WebApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Blog.WebApp\\appsettings.Development.json",
@@ -272,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.WebApp\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Blog.WebApp\\appsettings.json",
@@ -284,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Api\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "src\\Blog.Api\\Controllers\\HomeController.cs",
@@ -296,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Blog.Api\\appsettings.Development.json",
@@ -308,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Blog.Api\\appsettings.json",
@@ -320,20 +350,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Blog.Api\\Program.cs",
               "ToolTip": "D:\\.NET\\Blog\\src\\Blog.Api\\Program.cs",
               "RelativeToolTip": "src\\Blog.Api\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwDoAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T17:44:46.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Data\\BlogContext.cs",
               "RelativeDocumentMoniker": "src\\Blog.Data\\BlogContext.cs",
@@ -341,12 +371,11 @@
               "RelativeToolTip": "src\\Blog.Data\\BlogContext.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAkwCoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T17:10:25.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T17:10:25.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Identity\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Identity\\AppUser.cs",
@@ -358,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Tag.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\Tag.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\Tag.cs",
@@ -370,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Series.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\Series.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\Series.cs",
@@ -382,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "PostTag.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\PostTag.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\PostTag.cs",
@@ -394,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "PostInseries.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\PostInseries.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\PostInseries.cs",
@@ -406,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\Post.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\Post.cs",
@@ -418,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PostActivityBlog.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\PostActivityBlog.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\PostActivityBlog.cs",
@@ -430,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "PostCategory.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Domain\\PostCategory.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Domain\\PostCategory.cs",
@@ -442,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AppRole.cs",
               "DocumentMoniker": "D:\\.NET\\Blog\\src\\Blog.Core\\Identity\\AppRole.cs",
               "RelativeDocumentMoniker": "src\\Blog.Core\\Identity\\AppRole.cs",
