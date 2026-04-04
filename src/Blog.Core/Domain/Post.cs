@@ -11,7 +11,7 @@ namespace Blog.Core.Domain
 {
     [Table("Posts")]
     [Index(nameof(Slug), IsUnique = true)]
-    public class Posts
+    public class Post
     {
         [Key]
         public Guid Id { get; set; }

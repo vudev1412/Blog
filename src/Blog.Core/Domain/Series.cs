@@ -14,7 +14,7 @@ namespace Blog.Core.Domain
     public class Series
     {
         [Key]
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         [MaxLength(250)]
         public required string Name { get; set; }
 
