@@ -90,3 +90,5 @@ D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\Blog.Core.dll
 D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\Blog.Data.dll
 D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\Blog.Core.pdb
 D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\Blog.Data.pdb
+D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\.NET\Blog\src\Blog.Api\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
