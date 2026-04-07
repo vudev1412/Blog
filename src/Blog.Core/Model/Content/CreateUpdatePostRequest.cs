@@ -1,4 +1,5 @@
-﻿using Blog.Core.Domain;
+﻿using AutoMapper;
+using Blog.Core.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,8 +27,14 @@ namespace Blog.Core.Model.Content
         public string? SeoDecription { get; set; }
 
 
-      
 
+        public class AutoMapperProfiles : Profile
+        {
+            public AutoMapperProfiles()
+            {
+                CreateMap<CreateUpdatePostRequest, Post>();
+            }
+        }
 
 
 
